@@ -12275,4 +12275,9 @@
     <string name="caf_system_version">LA.QSSI.11.0.r1-07000-qssi.0</string>
     <string name="caf_vendor_version_title">CAF vendor version</string>
     <string name="caf_vendor_version">LA.UM.9.11.r1-02100-NICOBAR.0</string>
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">Platform</string>
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">Total RAM</string>
 </resources>
