@@ -12267,4 +12267,7 @@
     <!-- Global Actions -->
     <string name="global_actions_advanced_reboot_title">Enable advanced restart</string>
     <string name="global_actions_advanced_reboot_summary">Show options for recovery and bootloader</string>
+    <!-- Battery light -->
+    <string name="battery_light_title">Battery light</string>
+    <string name="battery_light_summary">Turn on the light while charging and blink when battery is low</string>
 </resources>
