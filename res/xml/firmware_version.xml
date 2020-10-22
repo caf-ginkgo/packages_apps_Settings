@@ -45,6 +45,20 @@
         settings:enableCopying="true"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.MainlineModuleVersionPreferenceController"/>
 
+    <!-- CAF version -->
+    <Preference
+        android:key="caf_system_version"
+        android:title="@string/caf_system_version_title"
+        android:summary="@string/caf_system_version"
+        android:selectable="false"
+        settings:enableCopying="true"/>
+    <Preference
+        android:key="caf_vendor_version"
+        android:title="@string/caf_vendor_version_title"
+        android:summary="@string/caf_vendor_version"
+        android:selectable="false"
+        settings:enableCopying="true"/>
+
     <!-- Baseband -->
     <Preference
         android:key="base_band"
