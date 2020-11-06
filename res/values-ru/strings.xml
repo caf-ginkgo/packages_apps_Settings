@@ -5133,4 +5133,24 @@
     <string name="keywords_media_controls" msgid="8345490568291778638">"Медиа"</string>
     <string name="qtifeedback_settings_title">Отзывы по оборудованию</string>
     <string name="qtifeedback_settings_subtitle"> Отчеты Qualcomm Technologies, Inc</string>
+    <string name="caf_system_version_title">Версия CAF-системы</string>
+    <string name="caf_vendor_version_title">Версия CAF-вендора</string>
+    <string name="global_actions_advanced_reboot_title">Расширенное меню перезагрузки</string>
+    <string name="global_actions_advanced_reboot_summary">Показать пункты для перезагрузки в Recovery или загрузчик.</string>
+    <string name="theme_customization_icon_pack_title">Набор значков</string>
+    <string name="theme_customization_category">Тематизация</string>
+    <string name="theme_customization_accent_color_title">Цвет акцента</string>
+    <string name="theme_customization_font_title">Шрифт заголовка/подзаголока</string>
+    <string name="theme_customization_icon_shape_title">Форма значков</string>
+    <string name="uplmn_settings_title">Пользовательские PLMN</string>
+    <string name="network_id">ID сети</string>
+    <string name="dialog_network_priority_title">Приоритет</string>
+    <string name="uplmn_list_setting_add_plmn">Новый PLMN</string>
+    <string name="gsm_umts_network_preferences_title">Режим сети</string>
+    <string name="gsm_umts_network_preferences_dialogtitle">Режим сети</string>
+    <string name="voicemail_number_not_set">&lt;Не задан&gt;</string>
+    <string name="reading_settings">Чтение настроек\u2026</string>
+    <string name="updating_settings">Обновление настроек\u2026</string>
+    <string name="uplmn_settings_summary">Определите предпочтительные PLMN в порядке приоритета</string>
+    <string name="plmn_failure_radio_off">Сеть не выбрана, так как радио отключено или недоступно.</string>
 </resources>
