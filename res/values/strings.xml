@@ -12274,9 +12274,9 @@
     <string name="battery_light_summary">Turn on the light while charging and blink when battery is low</string>
     <!-- CAF Version -->
     <string name="caf_system_version_title">CAF system version</string>
-    <string name="caf_system_version">LA.QSSI.11.0.r1-07000-qssi.0</string>
+    <string name="caf_system_version">LA.QSSI.11.0.r1-07500-qssi.0</string>
     <string name="caf_vendor_version_title">CAF vendor version</string>
-    <string name="caf_vendor_version">LA.UM.9.11.r1-02100-NICOBAR.0</string>
+    <string name="caf_vendor_version">LA.UM.9.11.r1-02200-NICOBAR.0</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
     <string name="platform_revision">Platform</string>
